@@ -1,4 +1,4 @@
-/*Crear Una tabla Estudiante*/
+--Crear Una tabla Estudiante--
 
 CREATE TABLE Estudiante (
 ID INT PRIMARY KEY,
