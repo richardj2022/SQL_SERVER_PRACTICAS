@@ -1,4 +1,4 @@
--- Creacion de tabla una tabla --
+-- Creacion de una tabla --
 create table Usuarios (
 -- NOMBRECAMPO TIPODATO,
 IdUser int primary key,
