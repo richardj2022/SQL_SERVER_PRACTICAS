@@ -7,3 +7,11 @@ Apellido VARCHAR(100) NOT NULL,
 Edad INT,
 CorreoElectronico VARCHAR(100)
 );
+
+select * from Estudiante;
+
+--Creacion de una tabla con vistas--
+
+CREATE TABLE Pruebas.vistas(
+
+);
