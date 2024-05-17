@@ -11,7 +11,7 @@
 
 
 
-#### SÍGUENOS EN NUESTRAS REDES SOCIALES
+#### NUESTRAS REDES SOCIALES
 #### SÍGUENOS EN YOUTUBE
 > [YouTube](https://www.youtube.com/@serprointec8289/ "YouTube")
 #### SÍGUENOS EN FACEBOOK
