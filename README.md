@@ -12,6 +12,9 @@
 
 
 #### SÍGUENOS EN NUESTRAS REDES SOCIALES
+#### SÍGUENOS EN YOUTUBE
 > [YouTube](https://www.youtube.com/@serprointec8289/ "YouTube")
+#### SÍGUENOS EN FACEBOOK
 >[Facebook](https://www.facebook.com/serprointec "Facebook")
+#### SÍGUENOS EN INSTAGRAM
 >[Instagram](https://www.instagram.com/serprointec/ "Instagram")
